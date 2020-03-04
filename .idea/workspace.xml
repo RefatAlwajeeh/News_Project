@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53785ad4-a7d3-4145-9f24-9b37407c148b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1UgzaTFtHm9HVZhacwfbDeJjaFF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../examination" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Controller.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CRUD/mvc/Controller.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Controller.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53785ad4-a7d3-4145-9f24-9b37407c148b" name="Default Changelist" comment="" />
+      <created>1575793089755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575793089755</updated>
+      <workItem from="1575793090893" duration="2815000" />
+      <workItem from="1575872875656" duration="13686000" />
+      <workItem from="1577083880627" duration="14557000" />
+      <workItem from="1577124944565" duration="4279000" />
+      <workItem from="1577129247340" duration="5812000" />
+      <workItem from="1577170615829" duration="8225000" />
+      <workItem from="1577562547337" duration="8807000" />
+      <workItem from="1577603111218" duration="9561000" />
+      <workItem from="1577794856546" duration="221000" />
+      <workItem from="1578198102514" duration="1117000" />
+      <workItem from="1578214712631" duration="7391000" />
+      <workItem from="1578184086291" duration="4863000" />
+      <workItem from="1578189298169" duration="12746000" />
+      <workItem from="1578209091352" duration="358000" />
+      <workItem from="1578293125418" duration="10644000" />
+      <workItem from="1578379445136" duration="292000" />
+      <workItem from="1578465918189" duration="725000" />
+      <workItem from="1578466928254" duration="11864000" />
+      <workItem from="1578520406043" duration="23817000" />
+      <workItem from="1578552468024" duration="12625000" />
+      <workItem from="1578816443579" duration="17203000" />
+      <workItem from="1578852382905" duration="657000" />
+      <workItem from="1578870474664" duration="261000" />
+      <workItem from="1578871519860" duration="208000" />
+      <workItem from="1579122082796" duration="68000" />
+      <workItem from="1583331740185" duration="412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
